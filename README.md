@@ -4,4 +4,7 @@
 - 💡 Buscando pelo primeiro emprego
 - 🌱 Estudando C e Python
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 
