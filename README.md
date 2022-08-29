@@ -10,7 +10,7 @@
 
 
 
-### Humor e piadas
+### Humor e piadas -----------------------------
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
