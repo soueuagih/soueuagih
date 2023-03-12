@@ -1,6 +1,6 @@
 ### Opa, eu sou a Giovanna Souza! 💖
 
-- 📚 2º Semestre Interdisciplinar em Ciência e Tecnologia
+- 📚 3º Semestre Interdisciplinar em Ciência e Tecnologia
 - 💡 Buscando pelo primeiro emprego
 - 🌱 Estudando C e Python
 - 💬 Idiomas: Português💚💛💙 // Inglês💙❤️
