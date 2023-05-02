@@ -1,13 +1,12 @@
 # Opa, eu sou a Giovanna Souza! 💖
 
-- 📚 3º Semestre Interdisciplinar em Ciência e Tecnologia
-- 💡 Buscando pelo primeiro emprego
-- 🌱 Estudando C e Python
-- 💬 Idiomas: Português💚💛💙 // Inglês💙❤️
+- 📚 3º Semestre Interdisciplinar em Ciência e Tecnologia, na trajetória do curso específico em Ciência da Computação;
+- 💡 Buscando pelo primeiro emprego;
+- 💬 Idiomas: Português💚💛💙 // Inglês💙❤️;
 
 <br>
 
-<img src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+- 🌱 Estudando <img src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> e <img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>;
 
 
 
