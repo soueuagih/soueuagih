@@ -13,9 +13,4 @@
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-<br>
-
-<div>
-  ![Snake animation](https://github.com/soueuagih/soueuagih/blob/output/github-contribution-grid-snake.svg)
-</div>
 
