@@ -1,7 +1,7 @@
 # Opa, eu sou a Giovanna Souza! 💖
 
 - 🎓 Formada como Técnica em Informática, pela Etec;
-- 📚 Cursando o 5º Semestre Interdisciplinar em Ciência e Tecnologia, na Unifesp: trajetória do curso específico em Ciência da Computação;
+- 📚 Cursando o 6º Semestre Interdisciplinar em Ciência e Tecnologia, na Unifesp: trajetória do curso específico em Ciência da Computação;
 - 💡 Buscando desenvolvimento contínuo;
 - 💬 Idiomas: Português💚💛💙 // Inglês💙❤️;
 
